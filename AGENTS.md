@@ -1,5 +1,5 @@
-Read README.md. Keep the published protocol in scd-replication/index.html. Preserve its text when changing layout. Compare revisions before publication.
+Read README.md. This repository preserves redirects to the sudden cardiac death collaboration site in eccentric-health/scd-replication. Edit the published protocol in that repository.
 
-Use the existing paper color, serif text, and green links. Add no images or framework without a request.
+Keep the redirects and old document links working. Do not store completed forms, identities, approvals, or model weights here.
 
-This repository is public. Completed forms, identities, approval records, and model files belong in their separate private repositories. Run python3 scripts/check_site.py before committing. Inspect the staged files, commit, and push master. Confirm the Pages deployment and live page after publication.
+Run python3 scripts/check_site.py before committing. Inspect staged files, commit, and push master. Confirm the live redirect.
