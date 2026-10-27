@@ -1,4 +1,4 @@
-The public collaboration page is [SCD replication](https://zobermeyer.github.io/scd-replication/).
+The public collaboration page is [Sudden cardiac death](https://zobermeyer.github.io/scd-replication/).
 
 Edit `scd-replication/index.html` and `scd-replication/styles.css`. The HTML file owns the published text.
 

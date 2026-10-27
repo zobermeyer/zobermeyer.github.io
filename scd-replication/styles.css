@@ -4,10 +4,9 @@ html { background: var(--paper); color: var(--ink); font: 19px/1.6 Georgia, seri
 body { margin: 0; }
 .shell { max-width: 1060px; margin: auto; padding: 32px 36px 90px; }
 header { display: flex; align-items: baseline; justify-content: space-between; gap: 28px; border-top: 2px solid var(--accent); padding-top: 20px; margin-bottom: 65px; font-family: system-ui, sans-serif; font-size: 14px; }
-.person { color: var(--ink); text-decoration: none; font-size: 15px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+.project { color: var(--ink); text-decoration: none; font-size: 15px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
 nav { display: flex; gap: 24px; flex-wrap: wrap; }
 main { max-width: 740px; }
-.eyebrow { font: 600 13px/1.5 system-ui, sans-serif; color: var(--accent); text-transform: uppercase; letter-spacing: .13em; margin-bottom: 28px; }
 a { color: var(--accent); text-underline-offset: .17em; text-decoration-thickness: 1px; overflow-wrap: anywhere; }
 a:hover { color: #7d5134; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
