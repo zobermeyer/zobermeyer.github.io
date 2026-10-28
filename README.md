@@ -1,6 +1,6 @@
-The sudden cardiac death collaboration page has moved to [eccentric-health](https://eccentric-health.github.io/scd-replication/). Both the root page and `/scd-replication/` redirect there.
+The sudden cardiac death collaboration page has moved to [eccentric-health](https://eccentric-health.github.io/re-ecg-scd/). Both the root page and `/scd-replication/` redirect there.
 
-Edit the current page in `eccentric-health/scd-replication`. That repository holds the protocol, design, and current access form. The old version 1.3 form stays here so existing document links still work.
+Edit the current page in `eccentric-health/re-ecg-scd`. That repository holds the protocol, design, and current access form. The old version 1.3 form stays here so existing document links still work.
 
 This repository is public. Completed forms, identities, approvals, and model files belong in their separate private organization repositories.
 
